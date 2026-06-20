@@ -10,29 +10,32 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/quinton161?style=social)](https://github.com/quinton161)
 [![wakatime](https://wakatime.com/badge/user/208589f4-a926-45fc-91f5-b7089469382a.svg)](https://wakatime.com/@208589f4-a926-45fc-91f5-b7089469382a)
-![Profile views](https://komarev.com/ghpvc/?username=quinton161&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=quinton161&color=ff79c6)
 ## ⚙ **Languages-Frameworks-Tools**
 
 <br />
 
-_Languages_
+<div align="left">
+  <!-- Languages -->
+  <p><b>Languages:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,mysql,postgres,css,sass,c" alt="Languages" />
+  </a>
+  <br><br>
 
-<!-- Languages -->
+  <!-- Frameworks & libraries -->
+  <p><b>Frameworks & Libraries:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,flask,electron,nodejs,graphql" alt="Frameworks & Libraries" />
+  </a>
+  <br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=181717) ![Javascript](https://img.shields.io/badge/Javascript_es6+-F7DF1E?logo=javascript&color=181717) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&labelColor=181717) ![MYSQL](https://img.shields.io/badge/Mysql-4479A1?logo=mysql&labelColor=181717) ![Postresql](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&labelColor=181717) ![CSS3](https://img.shields.io/badge/CSS3-663399?logo=css) ![Sass](https://img.shields.io/badge/SaaS-CC6699?logo=sass&labelColor=181717) ![C](https://img.shields.io/badge/-A8B9CC?logo=c&color=181717)
-
-_Frameworks & libraries_
-
-<!-- Frameworks & libraries -->
-
-![REACT](https://img.shields.io/badge/React-61dafb?logo=react&labelColor=181717) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&labelColor=181717) ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4?logo=tailwindcss&labelColor=181717) ![Express](https://img.shields.io/badge/Express-000000?logo=express) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&labelColor=181717)
-
-
-<!-- Tools -->
-
-_Tools & platforms_
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&labelColor=181717) ![Vscode](https://img.shields.io/badge/Vscode-2F80ED) ![Webstorm](https://img.shields.io/badge/Webstorm-000000?logo=webstorm) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&labelColor=181717) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&labelColor=181717) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&labelColor=181717) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&labelColor=181717) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&labelColor=181717) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&labelColor=181717) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&labelColor=181717) ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&labelColor=181717) ![Vmware](https://img.shields.io/badge/Vmware-607078?logo=vmware&labelColor=181717) ![VirtualBox](https://img.shields.io/badge/Virtual_box-2F61B4?logo=virtualbox) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=pycharm) ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql) ![Nodejs](https://img.shields.io/badge/Nodejs-5FA04E?logo=nodedotjs&labelColor=181717)
+  <!-- Tools & platforms -->
+  <p><b>Tools & Platforms:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,pycharm,linux,ubuntu,vite,docker,postman,figma,bash,bun" alt="Tools & Platforms" />
+  </a>
+</div>
 
 <br />
 
@@ -54,17 +57,17 @@ _Tools & platforms_
 
 <!-- GitHub stats -->
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=quinton161&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=quinton161&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" align="center"/>
 
 <!-- GitHub streaks -->
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=quinton161&count_private=true&theme=react&border_radius=10" alt="streak stats" align="center"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=quinton161&count_private=true&theme=dracula&border_radius=10" alt="streak stats" align="center"/>
 </div>
 
   <!-- Most used languages -->
 
 
-  <div align='center' style='margin-top: 1em;'><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=quinton161&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weiGitHubt=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
+  <div align='center' style='margin-top: 1em;'><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=quinton161&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weiGitHubt=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div>
 
 
 <!-- Typewritter-2 -->
