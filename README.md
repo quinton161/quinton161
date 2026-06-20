@@ -45,7 +45,7 @@
 
 <br />
 
-[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/quinton161/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/quinton-ndlovu-40b559341/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/specialbrocoli)
+[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/quinton161/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-8a2be2?logo=linkedin&labelColor=181717)](https://www.linkedin.com/in/quinton-ndlovu-40b559341/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/silentwandarer) [![Discord](https://img.shields.io/badge/Discord-a15bf6?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-ff79c6?logo=telegram&labelColor=181717)](https://t.me/specialbrocoli)
 
 
 <!-- ********===Gh profile summary********=== -->
@@ -78,8 +78,6 @@
 <!-- contribution graph snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinton161/quinton161/output/github-snake-dark.svg" />
-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quinton161/quinton161/output/github-snake.svg" />
-
   <img alt="github-snake" src="https://raw.githubusercontent.com/quinton161/quinton161/output/github-snake.svg" />
 </picture>
